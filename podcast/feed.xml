@@ -26,7 +26,8 @@ layout: null
 	<itunes:category text="Society &amp; Culture">
 		<itunes:category text="Personal Journals"/>
 	</itunes:category>
-  	<itunes:category text="Leisure"/></itunes:category>
+  	<itunes:category text="Leisure"/>
+	</itunes:category>
 	
 	<item>
 	<title>S1E0: Preivew</title>
