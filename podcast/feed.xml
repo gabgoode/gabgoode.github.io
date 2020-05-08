@@ -1,0 +1,60 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+<channel>
+<title>Where To Go Next?</title>
+<link>https:https://gabgoode.github.io/</link>
+<language>en-us</language>
+<atom:link href="https://gabgoode.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+<copyright>Gabriella Liu, Leilani Stacy</copyright>
+<itunes:author>Gabriella Liu</itunes:author>
+<itunes:summary>
+Sharing ordinary stories around the world through geniune conversations. 
+</itunes:summary>
+<itunes:keywords>
+travel, identity, inspiration, self-awareness, questions
+</itunes:keywords>
+<description>
+Gab and Lei continue to find answers for hard questions as they talk with people around the world. 
+</description>
+<itunes:owner>
+<itunes:name>Gabriella Liu</itunes:name>
+<itunes:email>lliu@oberlin.edu</itunes:email>
+</itunes:owner>
+<itunes:image href="https://PODCAST IMAGE.jpg"/>
+<itunes:category text="Society&Culture"></itunes:category>
+<itunes:category text="Education"></itunes:category>
+<itunes:category text="Leisure"></itunes:category>
+<itunes:explicit>no</itunes:explicit>
+
+<item>
+<title>Why I am doing this?</title>
+<itunes:title>Why I am doing this?</itunes:title>
+<itunes:author>Gabriella Liu</itunes:author>
+<itunes:summary>
+<![CDATA[
+Gab explains why she had the idea of creating this podcast, and what you should expect.
+]]>
+</itunes:summary>
+<description>
+<![CDATA[
+Host: Gabriella Liu
+Produced by: Gabriella Liu
+Music Credits: Jeannie - (feat. Krude Mischung) by KieLoBot; BoogieBounce by Drew Banga; Happy Birthday Soul by E's Jammy Jams
+]]>
+</description>
+<itunes:image href="https://OPTIONAL EPISODE IMAGE.jpg"/>
+<enclosure url="https://gabgoode.github.io/podcast/mp3s/S1E0.mp3" length="LENGTH" type="audio/mpeg"/>
+<itunes:duration>03:25</itunes:duration>
+<itunes:season>1</itunes:season>
+<itunes:episode>0</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<guid isPermaLink="false">
+https://https://gabgoode.github.io/podcast/mp3s/S1E0.mp3
+</guid>
+<pubDate>Thursday May 7 2020</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+... REPEAT <item> for each episode ...
+
+</channel>
+</rss>
