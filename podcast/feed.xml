@@ -51,9 +51,7 @@ layout: null
 	<itunes:season>1</itunes:season>
 	<itunes:episode>0</itunes:episode>
 	<itunes:episodeType>full</itunes:episodeType>
-	<guid isPermaLink="false">
-	https://gabgoode.github.io/podcast/mp3s/S1E0.mp3
-	</guid>
+	<guid isPermaLink="false">https://gabgoode.github.io/podcast/mp3s/S1E0.mp3</guid>
 	<pubDate>Tue, 12 May 2020 13:00:00 GMT</pubDate>
 	<itunes:explicit>no/itunes:explicit>
 	</item>
