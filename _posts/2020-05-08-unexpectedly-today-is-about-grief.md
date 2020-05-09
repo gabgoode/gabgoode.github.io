@@ -4,13 +4,13 @@ title: "Unexpectedly, Today Is About Grief 出乎意料，今天关于悲痛"
 date: 2020-05-08
 ---
 
-Unexpectedly, today is about Grief, <br/> 
+Unexpectedly, today is about, grief, <br/> 
 just like unexpectdely, trauma drills you down. <br/>
-出乎意料，今天关于悲痛， <br/>
+出乎意料，今天关于, 悲痛， <br/>
 就像出乎意料，创伤把你钻透 <br/>
 Unexpectedly, I listened to the episode titled <em>One Last Thing Before I Go</em> of <em>This American Life</em>, <br/>
-and unexpectedly but not understandably, I felt the heartbroken pain through the voices recorded in <em>"kaze no denw"</em>. <br/>
-没有想到，我刚好听到<em>This American Life</em>里标题为<em>One Last Thing Before I Go</em>的这一集，<br/>
+and unexpectedly but understandably, I felt the heartbroken pain through the voices recorded in <em>"kaze no denwa"</em>. <br/>
+没有想到，我刚好听到 <em>This American Life</em> 里标题为 <em>One Last Thing Before I Go</em> 的这一集，<br/>
 更没有想到却合乎情理，我感受到了“风的电话”亭中记录下来的那些声音中的碎心痛苦。<br/>
 I am always an empathetic person, but I don't know whether it's a blessing or a curse. <br/>
 我一直是个很能共情的人，但我不知道这是好事还是坏事。<br/>
