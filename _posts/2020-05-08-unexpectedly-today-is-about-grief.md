@@ -7,7 +7,7 @@ date: 2020-05-08
 Unexpectedly, today is about, grief, <br/> 
 just like unexpectdely, trauma drills you down. <br/>
 出乎意料，今天关于, 悲痛， <br/>
-就像出乎意料，创伤把你钻透 <br/>
+就像出乎意料，创伤把你钻透。 <br/>
 Unexpectedly, I listened to the episode titled <em>One Last Thing Before I Go</em> of <em>This American Life</em>, <br/>
 and unexpectedly but understandably, I felt the heartbroken pain through the voices recorded in <em>"kaze no denwa"</em>. <br/>
 没有想到，我刚好听到 <em>This American Life</em> 里标题为 <em>One Last Thing Before I Go</em> 的这一集，<br/>
@@ -57,7 +57,7 @@ I'm going to be 23 in 4 days. How come I just realized that I already have the b
 Before we hang up, he told me : "Even though you are not completely relieved, I can see you getting there." <br/>
 我们挂断电话之前，他跟我讲：“虽然你还没有完全释怀，但我觉得你在慢慢转变了。” <br/>
 He sounds gratified. I thought there was a catch in his voice. <br/>
-他听上去很新闻。我觉得他讲话时有些哽咽。<br/>
+他听上去很欣慰。我觉得他讲话时有些哽咽。<br/>
 I called him after my firends did not pick up, but I'm gald IT WAS HIM that I talked to this morning.<br/>
 发现朋友们都在忙以后我才给他打的电话，但我很开心早上跟我长谈的是他。<br/>
 After all, he was the only one who was always there. <br/>
