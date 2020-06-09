@@ -10,7 +10,7 @@ Weeping beech waving, like a urban dancer freestlying, <br/>
 垂枝山毛榉的枝叶摆动，像一个编舞者随风而跳，<br/>
 Airy? Morbidezza? Euphonic? <br/>
 灵动？柔美？悦耳？<br/>
-there's a sensational harmony, brought by wind, brought by force, <br/>
+there's a sensual harmony, brought by wind, brought by force, <br/>
 有一种身心聚拢，自下而上的和谐，来自风，来自力，<br/>
 that I can only feel, that I will wholeheartedly feel... <br/>
 我只能体会，我尽情体会...<br/>
