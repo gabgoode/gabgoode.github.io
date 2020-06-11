@@ -2,8 +2,9 @@ body, section, div {
     margin: 60px auto;
     width: 70%;
 }
-section {
-  width: 100%;
+section, div {
+  width: 70%;
+  height: 100%;
 }
 
 article {
