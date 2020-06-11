@@ -1,7 +1,30 @@
-body,div {
+body, section, div {
     margin: 60px auto;
     width: 70%;
 }
+section {
+  width: 100%;
+}
+
+article {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  padding: 1rem;
+  text-align: center;
+  transform: translate(-50%, -50%);
+}
+
+/* Pattern styles */
+.left-half {
+  float: left;
+  width: 50%;
+}
+.right-half {
+  float: left;
+  width: 50%;
+}
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -40,19 +63,4 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
-}
-
-article {
-  position: relative;
-  top: 50%;
-  left: 50%;
-  text-align: center;
-  transform: translate(-50%, -50%);
-}
-
-div {
-  display: inline-block;
-  vertical-align: top;
-  width: 50%;
-  padding: 1rem;
 }
