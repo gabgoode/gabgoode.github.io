@@ -41,3 +41,21 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+section {
+  width: 100%;
+}
+
+.container {
+  position: relative;
+}
+
+.left-half {
+  float: left;
+  width: 50%;
+}
+
+.right-half {
+  float: left;
+  width: 50%;
+}
