@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On Creativity 关于创作"
-date: 2020-04-29
+date: 2020-06-13
 ---
 
 我突然意识到了“灵感来的时候挡也挡不住“究竟是源自何处。<br/>
