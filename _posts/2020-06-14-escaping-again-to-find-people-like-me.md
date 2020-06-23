@@ -27,7 +27,7 @@ I feel a sense of urgency, because I don't have enough time, so I need to try ha
 <br/>
 Sunday morning, right now, I biked to Seaport and I'm sitting on the stairs, facing water. On my way here, I had this thought that maybe Alan Turing, John Nash, and John Horton Conway were "people like us". That's why I had so much affinity for and appreciation of them, despite the fact that I know little about them. <br/>
 I texted Kevin this morning, said some gibberish that I was a bit unconfident to share. He texted back with unwavering, powerful statements. "That's a really good list of attributes of intelligence...A developmental psychology professor once told me that things like this list (dealing with ambiguity in particular) are things 18-year-olds are really bad at, and there is still physical brain development happening 18-21 that enables them to get better at it." <br/>
-That last sentence helped me make more sense as to why I've always felt so fortunate to have studied pure Mathematics in college.<br/>
+That last sentence helped me make more sense as to why I've always felt so fortunate to have studied pure Mathematics in college. <br/>
 You know what, I'm quite lucky. There probably aren't that many people like me in terms of ratio, but I've found my way to connect with a few in real life. <br/>
 I shall keep searching, and keep being brave. <br/>
 <br/>
@@ -58,3 +58,7 @@ Priscilla说我更勇敢一些，我也这样认为。我更主动，更愿意�
 <br/>
 <br/>
 周日早上，现在。我骑车到了Seaport，坐在ICA外面的台阶上面朝大海。在来的路上，我突然有了这样一个念头：也许Alan Turing，John Nash，John Horton Conway等是我们这类人的一些代表。这就能解释为什么我对他们有一种天然的亲近感与欣赏，尽管我对他们个人了解地少之又少。<br/>
+早上带着一丝胆怯给Kevin发了几条长长的语无伦次的信息，因为我也不知道怎么把脑中的许多想法捋清楚讲出来。他的回复中透露着坚定，让我感到安心。“那是个很好的关于智力的描述列表...一个发展心理学的教授曾经跟我说18岁的少年在面对这个列表上的问题时会感到很手足无措，特别是应对模棱两可。不过在18-21岁的阶段大脑还是有发展空间，所以他们可以在这些事情上做的更好。“ <br/>
+最后那句话似乎很有力地从一个新的角度解释了为何我一直觉得自己大学期间学习了纯数是件很幸运的事情。<br/>
+说真的，其实我挺幸运的。也许人群中我这类人占比并不很多，但好在我遇到了一些可以理解我的同类。<br/>
+我要坚定、勇敢地继续寻找下去。<br/>
