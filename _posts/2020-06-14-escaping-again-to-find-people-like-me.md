@@ -9,7 +9,6 @@ Although I am a city girl, at times I just need to escape from the city. More, l
 Thursday, I walked for three hours in the rain. I was soaked, but it didn't bother me. The wind, the rain, energized me. I raised my chin, lifted my arms, and closed my eyes, to open myself up, to embrace and to relish in the moment. <br/>
 I had an entire Hawaiian pizza. The last time I had pizza was probably two years ago. It tasted very good, that interwoven sense of flavors. I felt very happy :) <br/>
 <br/>
-<br/>
 Friday, I took another long walk along the Charles River at dusk. It made me smile to see people peacefully sitting on the grass, enjoying the sky as much as I do. <br/>
 But somehow, I felt sentimental, about leaving Cambridge. I knew, it was time to say farewell, to this city that I once loved deeply, this city that I see as my second home. <br/>
 Jenny Xie's words came back to me, "Funny, the way we come to understand a place by wanting to escape it. " <br/>
@@ -37,7 +36,6 @@ I shall keep searching, and keep being brave. <br/>
 <br/>
 周四，我淋雨走了三个小时。浑身湿透的我并不介意被淋成了落汤鸡，因为风和雨重新点燃了我。我扬起下巴、抬起双臂、闭上双眼来敞开自己、拥抱并享受着这个瞬间。<br/>
 之后我吃了一整个儿夏威夷披萨。上一次吃披萨估计是两年前把。菠萝的甜和培根的咸在我的口中编织在一起美妙极了。我吃得很满足！<br/>
-<br/>
 <br/>
 <br/>
 周五，我在黄昏时分独自漫步在查尔斯河畔。看着三五成群坐在草地上、和我一样欣赏日落的人们，我的内心一片平静祥和。<br/>
