@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Escaping Again, To Find, People Like Me"
+title: "Escaping Again, To Find, People Like Me 再次逃离，去寻找，我的同类"
 date: 2020-06-14
 ---
 
