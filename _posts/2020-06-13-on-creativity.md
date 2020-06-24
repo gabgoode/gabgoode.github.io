@@ -20,13 +20,13 @@ date: 2020-06-13
 <br/>
 All of a sudden, I realized where the notion, or rather, the feeling of "I can't resist inspirations rushing towards me like the rolling tide" comes from. <br/>
 The creation of music, for me, is a reciprocal process of receiving and recreating. <br/> 
-The information comes together after floating into me, and forms into lyrics and/or melodies. Maybe I am naturally good at expressing through music and voice, or maybe I grew up playing the piano and singing all the time, so this way of expression has turned into a habit. <br/>
+The information comes together after floating into me, and forms into lyrics and/or melodies. Maybe I am naturally good at expressing myself through music and voice, or maybe I grew up playing the piano and singing all the time, so this way of expression has turned into a habit. <br/>
 When I produce my creations, it is in essense presenting what I heard, what I felt, what I saw, and what I smelled at the very moment in its original form and context. <br/>
 Hence, I always know what completeness of a piece means, and what it lacks when there are pieces meaning. <br/>
 <br/>
 My originality, takes roots in the conversations that my senses, my body, my heart and my spirits had with the world around me as an individual system. <br/>
 My creativity, comes from self-precipitation and self-extraction. <br/>
-Slef-precipitation means "I" will fall, so then the world can and will emerge. Self-extraction means "I" am detached from the physical body, so that I can see everything within sight as an outsider. <br/>
-In the former state, I can control myself to distribute consciousness to ears, eyes, nose, heart, fingers and other parts of the body. "I" am not present in this scenario. <br/>
-In the latter state, I would completely forget the existence of the body, and all of the consciousness is congregated at where the brain, or "I", sit(s). And this "I", is prudently, ice-coldly viewing the world. <br/>
-My creations are indeed creations of this movable unit/packaged labelled Gab Liu. This is simply due to the irreprodubility of the content of that conversation, which was generated at the very point of time or small fragment of time, at that very geographic spot, and with the very group of lives. 
+Self-precipitation means "I" will fall, so then the world can and will emerge. Self-extraction means "I" am detached from the physical body, so that I can see everything within sight as an outsider. <br/>
+In the former state, I can control myself to distribute consciousness to my ears, eyes, nose, heart, fingers and other parts of the body. "I" am not present in this scenario. <br/>
+In the latter state, I completely forget the existence of the body, and all of the consciousness is congregated at where the brain, or "I", sit(s). And this "I", is prudently, ice-coldly viewing the world. <br/>
+My creations are indeed creations of this movable unit/packaged labelled Gab Liu. This is simply due to the irreproducibility of the content of that conversation, which was generated at the very point of time or small fragment of time, at that very geographic spot, and with the very group of lives. 
