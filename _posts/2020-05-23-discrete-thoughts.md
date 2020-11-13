@@ -6,7 +6,7 @@ date: 2020-05-23
 
 Wisteria floating, like a ballerina glissading,<br/>
 紫藤萝花的藤蔓飘荡，像芭蕾舞者滑步，<br/>
-Weeping beech waving, like a urban dancer freestlying, <br/>
+Weeping beech waving, like an urban dancer freestlying, <br/>
 垂枝山毛榉的枝叶摆动，像一个编舞者随风而跳，<br/>
 Airy? Morbidezza? Euphonic? <br/>
 灵动？柔美？悦耳？<br/>
