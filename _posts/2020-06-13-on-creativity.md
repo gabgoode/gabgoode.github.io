@@ -21,8 +21,8 @@ date: 2020-06-13
 All of a sudden, I realized where the notion, or rather, the feeling of "I can't resist inspirations rushing towards me like the rolling tide" comes from. <br/>
 The creation of music, for me, is a reciprocal process of receiving and recreating. <br/> 
 The information comes together after floating into me, and forms into lyrics and/or melodies. Maybe I am naturally good at expressing myself through music and voice, or maybe I grew up playing the piano and singing all the time, so this way of expression has turned into a habit. <br/>
-When I produce my creations, it is in essense presenting what I heard, what I felt, what I saw, and what I smelled at the very moment in its original form and context. <br/>
-Hence, I always know what completeness of a piece means, and what it lacks when there are pieces meaning. <br/>
+When I produce my creations, it is in essence presenting what I heard, what I felt, what I saw, and what I smelled at the very moment in its original form and context. <br/>
+Hence, I always know what completeness of a piece means, and what it lacks when there are pieces missing. <br/>
 <br/>
 My originality, takes roots in the conversations that my senses, my body, my heart and my spirits had with the world around me as an individual system. <br/>
 My creativity, comes from self-precipitation and self-extraction. <br/>
