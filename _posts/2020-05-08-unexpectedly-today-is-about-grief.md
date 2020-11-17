@@ -5,16 +5,16 @@ date: 2020-05-08
 ---
 
 Unexpectedly, today is about, grief, <br/> 
-just like unexpectdely, trauma drills you down. <br/>
+just like unexpectedly, trauma drills you down. <br/>
 出乎意料，今天关于, 悲痛， <br/>
 就像出乎意料，创伤把你钻透。 <br/>
 Unexpectedly, I listened to the episode titled <em>One Last Thing Before I Go</em> of <em>This American Life</em>, <br/>
 and unexpectedly but understandably, I felt the heartbroken pain through the voices recorded in <em>"kaze no denwa"</em>. <br/>
 没有想到，我刚好听到 <em>This American Life</em> 里标题为 <em>One Last Thing Before I Go</em> 的这一集，<br/>
 更没有想到却合乎情理，我感受到了“风的电话”亭中记录下来的那些声音中的碎心痛苦。<br/>
-I am always an empathetic person, but I don't know whether it's a blessing or a curse. <br/>
+I have always been an empathetic person, but I don't know whether it's a blessing or a curse. <br/>
 我一直是个很能共情的人，但我不知道这是好事还是坏事。<br/>
-I cannot help but crying harder and harder. <br/>
+I couldnt' help but crying harder and harder. <br/>
 我忍不住哭的越来越厉害。<br/>
 I called my dad. <br/>
 我给爸爸打了个电话。<br/>
@@ -58,7 +58,7 @@ Before we hang up, he told me : "Even though you are not completely relieved, I 
 我们挂断电话之前，他跟我讲：“虽然你还没有完全释怀，但我觉得你在慢慢转变了。” <br/>
 He sounds gratified. I thought there was a catch in his voice. <br/>
 他听上去很欣慰。我觉得他讲话时有些哽咽。<br/>
-I called him after my firends did not pick up, but I'm gald IT WAS HIM that I talked to this morning.<br/>
+I called him after my friends did not pick up, but I'm gald IT WAS HIM that I talked to this morning.<br/>
 发现朋友们都在忙以后我才给他打的电话，但我很开心早上跟我长谈的是他。<br/>
 After all, he was the only one who was always there. <br/>
 毕竟，一直站在我身后的，是爸爸。<br/>
@@ -74,8 +74,8 @@ I also texted Matt the same question. <br/>
 <br/>
 I texted Lei. <br/>
 我给Lei发了短信。<br/>
-"...I realized the biggest problem for the past two years for me has been that I could not forgive my past self. And becuase of that, I started to question my nature as an adventurer, and that caused a lot of pain and conflicts for me. Thanks for a great question that helped me resolve it! " <br/>
-“...我意识到过去的两年间我最大的问题在于我无法原谅我自己。因为这样，我开始怀疑自己爱冒险的天性，这给我带来了许多痛苦与矛盾。谢谢你的好问题帮我化解了！“ <br/>
+"...I realized the biggest problem for the past two years for me has been that I could not forgive my past self. And becuase of that, I started to question my nature as an adventurer, and that caused a lot of pain and conflicts for me. Thanks for a great question that helped me figure it out! " <br/>
+“...我意识到过去的两年间我最大的问题在于我无法原谅我自己。因为这样，我开始怀疑自己爱冒险的天性，这给我带来了许多痛苦与矛盾。谢谢你的好问题帮我意识到了这一点！“ <br/>
 <br/>
 <br/>
 I feel calm. <br/>
