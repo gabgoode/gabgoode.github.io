@@ -4,7 +4,7 @@ title: "This American Life (ft. GL)"
 date: 2020-08-27
 ---
 
-Happy kid, roadming through precious memeories, created with <br/>
+Happy kid, roaming through precious memeories, created with <br/>
 <br/>
 Loving friends, strangers turned into friends and friends turned into family, in this <br/>
 <br/>
