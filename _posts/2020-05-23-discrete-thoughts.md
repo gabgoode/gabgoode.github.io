@@ -24,16 +24,16 @@ but what is the ultimate shape, a line or a circle...<br/>
 我可以看到运动的连接路径，它们无处不在，<br/>
 但是哪个才是最终的形状，一条线还是一个圆...<br/>
 <br/>
-I am hesitant to make absolute statements, but I belive there is some truth to hetu-phala, <br/>
+I am hesitant to make absolute statements, but I believe there is some truth to hetu-phala, <br/>
 我犹豫下定论，但我认为因果论有些道理，<br/>
 I do not have enough evidence, but I believe things are interconnected, <br/>
 我没有足够证据，但我相信事物交错相搭，<br/>
-I cannot figure out my brain, but I believe it's a balck box, <br/>
+I cannot figure out my brain, but I believe it's a black box, <br/>
 我无法明白我的大脑，但我知道他是个黑匣子，<br/>
 <br/>
 I might think in images, although right now it's only a theory, <br/>
 我可能用图像思考，不过现在还停留在理论，<br/>
-I can instanly transform sound that I hear into images that I see in my mind, <br/>
+I can instantly transform sound that I hear into images that I see in my mind, <br/>
 我有把听到的声音迅速转成波状图像的能力，<br/>
 so I can compose and decompose music. <br/>
 所以我可以组成和分解音乐。<br/>
