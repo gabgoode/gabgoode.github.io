@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Random Thoughts Inside a Thermo 保暖壶中的杂想"
+title: "Random Thoughts Inside a Thermos 保暖壶中的杂想"
 date: 2020-04-18
 ---
 
